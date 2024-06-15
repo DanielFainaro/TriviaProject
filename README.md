@@ -1,1 +1,2 @@
-# TriviaProject
+# Trivia
+Trivia
